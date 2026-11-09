@@ -2,6 +2,8 @@
 
 Upload a Safety Data Sheet (PDF) and get an instant screening report against the official EU REACH Candidate List and the UN GHS hazard codes.
 
+**[Live demo: sds-reach-checker.streamlit.app](https://sds-reach-checker.streamlit.app/)** (pick a sample SDS or upload your own)
+
 ![SDS & REACH Checker screening a PVC plastisol SDS](docs/screenshot-pvc.png)
 
 **Example output:** [one-page PDF report](docs/example-report-chrome-bath.pdf) for a chrome-plating bath SDS with a wrong signal word.
