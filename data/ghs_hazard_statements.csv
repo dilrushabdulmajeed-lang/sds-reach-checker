@@ -1,0 +1,124 @@
+code,statement,hazard_class,category,pictogram,signal_word
+H200,(Deleted) Unstable Explosive,Explosives,Unstable Explosive,GHS01,Danger
+H201,(Deleted) Explosive; mass explosion hazard,Explosives,,GHS01,Danger
+H202,(Deleted) Explosive; severe projection hazard,Explosives,,GHS01,Danger
+H203,"(Deleted) Explosive; fire, blast or projection hazard",Explosives,,GHS01,Danger
+H204,Fire or projection hazard,Explosives,Category 2B,GHS01,Warning
+H204,Fire or projection hazard,Explosives,Category 2C,GHS07,Warning
+H205,(Deleted) May mass explode in fire,Explosives,,GHS02,Danger
+H206,"Fire, blast or projection hazard; increased risk of explosion if desensitizing agent is reduced",Desensitized explosives,Category 1,GHS02,Danger
+H207,Fire or projection hazard; increased risk of explosion if desensitizing agent is reduced,Desensitized explosives,Category 2,GHS02,Danger
+H207,Fire or projection hazard; increased risk of explosion if desensitizing agent is reduced,Desensitized explosives,Category 3,GHS02,Warning
+H208,Fire hazard; increased risk of explosion if desensitizing agent is reduced,Desensitized explosives,Category 4,GHS02,Warning
+H209,Explosive,Explosives,Category 1,GHS01,Danger
+H209,Explosive,Explosives,Category 2A,GHS01,Danger
+H210,Very sensitive,Explosives,Category 1,GHS01,Danger
+H211,Maybe sensitive,Explosives,Category 1,GHS01,Danger
+H220,Extremely flammable gas,Flammable gases,"1A: Flammable gas, Pyrophoric gas, Chemically unstable gas A,B",GHS02,Danger
+H221,Flammable gas,Flammable gases,1B,GHS02,Danger
+H221,Flammable gas,Flammable gases,Category 2,,Warning
+H222,Extremely flammable aerosol,Aerosols,Category 1,GHS02,Danger
+H223,Flammable aerosol,Aerosols,Category 2,GHS02,Warning
+H224,Extremely flammable liquid and vapor,Flammable liquids,Category 1,GHS02,Danger
+H225,Highly Flammable liquid and vapor,Flammable liquids,Category 2,GHS02,Danger
+H226,Flammable liquid and vapor,Flammable liquids,Category 3,GHS02,Warning
+H227,Combustible liquid,Flammable liquids,Category 4,,Warning
+H228,Flammable solid,Flammable solids,Category 1,GHS02,Danger
+H228,Flammable solid,Flammable solids,Category 2,GHS02,Warning
+H229,Pressurized container: may burst if heated,Aerosols,Category 1,GHS02,Danger
+H229,Pressurized container: may burst if heated,Aerosols,Category 2,GHS02,Warning
+H229,Pressurized container: may burst if heated,Aerosols,Category 3,,Warning
+H230,May react explosively even in the absence of air,Flammable gases ,"1A, Chemically unstable gas A",GHS02,Danger
+H231,May react explosively even in the absence of air at elevated pressure and/or temperature,Flammable gases ,"1A, Chemically unstable gas B",GHS02,Danger
+H232,May ignite spontaneously if exposed to air,Flammable gases ,"1A, Pyrophoric gas",GHS02,Danger
+H240,Heating may cause an explosion,Self-reactive substances and mixtures; Organic peroxides,Type A,GHS01,Danger
+H241,Heating may cause a fire or explosion,Self-reactive substances and mixtures; Organic peroxides,Type B,"GHS01,GHS02",Danger
+H242,Heating may cause a fire,Self-reactive substances and mixtures; Organic peroxides,"Type C, D",GHS02,Danger
+H250,Catches fire spontaneously if exposed to air,Pyrophoric liquids,Category 1,GHS02,Danger
+H250,Catches fire spontaneously if exposed to air,Pyrophoric solids,Category 1,GHS02,Danger
+H251,Self-heating; may catch fire,Self-heating substances and mixtures,Category 1,GHS02,Danger
+H252,Self-heating in large quantities; may catch fire,Self-heating substances and mixtures,Category 2,GHS02,Warning
+H260,In contact with water releases flammable gases which may ignite spontaneously,"Substances and mixtures which in contact with water, emit flammable gases",Category 1,GHS02,Danger
+H261,In contact with water releases flammable gas,"Substances and mixtures which in contact with water, emit flammable gases",Category 2,GHS02,Danger
+H261,In contact with water releases flammable gas,"Substances and mixtures which in contact with water, emit flammable gases",Category 3,GHS02,Warning
+H270,May cause or intensify fire; oxidizer,Oxidizing gases,Category 1,GHS03,Danger
+H271,May cause fire or explosion; strong Oxidizer,Oxidizing liquids; Oxidizing solids,Category 1,GHS03,Danger
+H272,May intensify fire; oxidizer,Oxidizing liquids; Oxidizing solids,Category 2,GHS03,Danger
+H272,May intensify fire; oxidizer,Oxidizing liquids; Oxidizing solids,Category 3,GHS03,Warning
+H280,Contains gas under pressure; may explode if heated,Gases under pressure,"Compressed gas, Liquefied gas, Dissolved gas",GHS04,Warning
+H281,Contains refrigerated gas; may cause cryogenic burns or injury,Gases under pressure,Refrigerated liquefied gas,GHS04,Warning
+H282,Extremely flammable chemical under pressure: may explode if heated,Chemicals under pressure,Category 1,"GHS02,GHS04",Danger
+H283,Flammable chemical under pressure: may explode if heated,Chemicals under pressure,Category 2,"GHS02,GHS04",Warning
+H284,Chemical under pressure: may explode if heated,Chemicals under pressure,Category 3,GHS04,Warning
+H290,May be corrosive to metals,Corrosive to Metals,Category 1,GHS05,Warning
+H300,Fatal if swallowed,"Acute toxicity, oral","Category 1, 2",GHS06,Danger
+H301,Toxic if swallowed,"Acute toxicity, oral",Category 3,GHS06,Danger
+H302,Harmful if swallowed,"Acute toxicity, oral",Category 4,GHS07,Warning
+H303,May be harmful if swallowed,"Acute toxicity, oral",Category 5,,Warning
+H304,May be fatal if swallowed and enters airways,Aspiration hazard,Category 1,GHS08,Danger
+H305,May be harmful if swallowed and enters airways,Aspiration hazard,Category 2,GHS08,Warning
+H310,Fatal in contact with skin,"Acute toxicity, dermal","Category 1, 2",GHS06,Danger
+H311,Toxic in contact with skin,"Acute toxicity, dermal",Category 3,GHS06,Danger
+H312,Harmful in contact with skin,"Acute toxicity, dermal",Category 4,GHS07,Warning
+H313,May be harmful in contact with skin,"Acute toxicity, dermal",Category 5,,Warning
+H314,Causes severe skin burns and eye damage,Skin corrosion/irritation,"Category 1, 1A, 1B, 1C",GHS05,Danger
+H315,Causes skin irritation,Skin corrosion/irritation,Category 2,GHS07,Warning
+H316,Causes mild skin irritation,Skin corrosion/irritation,Category 3,,Warning
+H317,May cause an allergic skin reaction,"Sensitization, Skin","Category 1, 1A, 1B",GHS07,Warning
+H318,Causes serious eye damage,Serious eye damage/eye irritation,Category 1,GHS05,Danger
+H319,Causes serious eye irritation,Serious eye damage/eye irritation,Category 2A,GHS07,Warning
+H320,Causes eye irritation,Serious eye damage/eye irritation,Category 2B,,Warning
+H330,Fatal if inhaled,"Acute toxicity, inhalation","Category 1, 2",GHS06,Danger
+H331,Toxic if inhaled,"Acute toxicity, inhalation",Category 3,GHS06,Danger
+H332,Harmful if inhaled,"Acute toxicity, inhalation",Category 4,GHS07,Warning
+H333,May be harmful if inhaled,"Acute toxicity, inhalation",Category 5,,Warning
+H334,May cause allergy or asthma symptoms or breathing difficulties if inhaled,"Sensitization, respiratory","Category 1, 1A, 1B",GHS08,Danger
+H335,May cause respiratory irritation,"Specific target organ toxicity, single exposure; Respiratory tract irritation",Category 3,GHS07,Warning
+H336,May cause drowsiness or dizziness,"Specific target organ toxicity, single exposure; Narcotic effects",Category 3,GHS07,Warning
+H340,May cause genetic defects,Germ cell mutagenicity,"Category 1, 1A, 1B",GHS08,Danger
+H341,Suspected of causing genetic defects,Germ cell mutagenicity,Category 2,GHS08,Warning
+H350,May cause cancer,Carcinogenicity,"Category 1, 1A, 1B",GHS08,Danger
+H350i,May cause cancer by inhalation,Carcinogenicity,"Category 1, 1A, 1B",GHS08,Danger
+H351,Suspected of causing cancer,Carcinogenicity,Category 2,GHS08,Warning
+H360,May damage fertility or the unborn child,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H360F,May damage fertility,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H360D,May damage the unborn child,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H360FD,May damage fertility; May damage the unborn child,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H360Fd,May damage fertility; Suspected of damaging the unborn child,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H360Df,May damage the unborn child; Suspected of damaging fertility,Reproductive toxicity,"Category 1, 1A, 1B",GHS08,Danger
+H361,Suspected of damaging fertility or the unborn child,Reproductive toxicity,Category 2,GHS08,Warning
+H361f,Suspected of damaging fertility,Reproductive toxicity,Category 2,GHS08,Warning
+H361d,Suspected of damaging the unborn child,Reproductive toxicity,Category 2,GHS08,Warning
+H361fd,Suspected of damaging fertility; Suspected of damaging the unborn child,Reproductive toxicity,Category 2,GHS08,Warning
+H362,May cause harm to breast-fed children,"Reproductive toxicity, effects on or via lactation",Additional category,,
+H370,Causes damage to organs,"Specific target organ toxicity, single exposure",Category 1,GHS08,Danger
+H371,May cause damage to organs,"Specific target organ toxicity, single exposure",Category 2,GHS08,Warning
+H372,Causes damage to organs through prolonged or repeated exposure,"Specific target organ toxicity, repeated exposure",Category 1,GHS08,Danger
+H373,May causes damage to organs through prolonged or repeated exposure,"Specific target organ toxicity, repeated exposure",Category 2,GHS08,Warning
+H400,Very toxic to aquatic life,"Hazardous to the aquatic environment, acute hazard",Category 1,GHS09,Warning
+H401,Toxic to aquatic life,"Hazardous to the aquatic environment, acute hazard",Category 2,,
+H402,Harmful to aquatic life,"Hazardous to the aquatic environment, acute hazard",Category 3,,
+H410,Very toxic to aquatic life with long lasting effects,"Hazardous to the aquatic environment, long-term hazard",Category 1,GHS09,Warning
+H411,Toxic to aquatic life with long lasting effects,"Hazardous to the aquatic environment, long-term hazard",Category 2,GHS09,
+H412,Harmful to aquatic life with long lasting effects,"Hazardous to the aquatic environment, long-term hazard",Category 3,,
+H413,May cause long lasting harmful effects to aquatic life,"Hazardous to the aquatic environment, long-term hazard",Category 4,,
+H420,Harms public health and the environment by destroying ozone in the upper atmosphere,Hazardous to the ozone layer,Category 1,GHS07,Warning
+H421,Harms public health and the environment by contributing to global warming,Hazardous by contributing to global warming,Category 1,GHS07,Warning
+H300+H310,Fatal if swallowed or in contact with skin,"Acute toxicity, oral; acute toxicity, dermal","Category 1, 2",GHS06,Danger
+H300+H330,Fatal if swallowed or if inhaled,"Acute toxicity, oral; acute toxicity, inhalation","Category 1, 2",GHS06,Danger
+H310+H330,Fatal in contact with skin or if inhaled,"Acute toxicity, dermal; acute toxicity, inhalation","Category 1, 2",GHS06,Danger
+H300+H310+H330,"Fatal if swallowed, in contact with skin or if inhaled","Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation","Category 1, 2",GHS06,Danger
+H301+H311,Toxic if swallowed or in contact with skin,"Acute toxicity, oral; acute toxicity, dermal",Category 3,GHS06,Danger
+H301+H331,Toxic if swallowed or if inhaled,"Acute toxicity, oral; acute toxicity, inhalation",Category 3,GHS06,Danger
+H311+H331,Toxic in contact with skin or if inhaled.,"Acute toxicity, dermal; acute toxicity, inhalation",Category 3,GHS06,Danger
+H301+H311+H331,"Toxic if swallowed, in contact with skin or if inhaled","Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation",Category 3,GHS06,Danger
+H302+H312,Harmful if swallowed or in contact with skin,"Acute toxicity, oral; acute toxicity, dermal",Category 4,GHS07,Warning
+H302+H332,Harmful if swallowed or if inhaled,"Acute toxicity, oral; acute toxicity, inhalation",Category 4,GHS07,Warning
+H312+H332,Harmful in contact with skin or if inhaled,"Acute toxicity, dermal; acute toxicity, inhalation",Category 4,GHS07,Warning
+H302+H312+H332,"Harmful if swallowed, in contact with skin or if inhaled","Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation",Category 4,GHS07,Warning
+H303+H313,May be harmful if swallowed or in contact with skin,"Acute toxicity, oral; acute toxicity, dermal",Category 5,,Warning
+H303+H333,May be harmful if swallowed or if inhaled,"Acute toxicity, oral; acute toxicity, inhalation",Category 5,,Warning
+H313+H333,May be harmful in contact with skin or if inhaled,"Acute toxicity, dermal; acute toxicity, inhalation",Category 5,,Warning
+H303+H313+H333,"May be harmful if swallowed, in contact with skin or if inhaled","Acute toxicity, oral; acute toxicity, dermal; acute toxicity, inhalation",Category 5,,Warning
+H315+319,Cause skin irritation and serious eys irritation,Skin corrosion/irritation and serious eye damage/eye irritation,"Category 2, 2A",GHS07,Warning
+H315+H320,Cause skin and eye irritation,Skin corrosion/irritation and serious eye damage/eye irritation,"Category 2, 2B",GHS07,Warning

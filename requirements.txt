@@ -1,0 +1,7 @@
+streamlit>=1.46
+pypdf>=4.0
+pandas>=2.0
+openpyxl>=3.1
+anthropic>=0.40
+pytest>=8.0
+fpdf2>=2.7
